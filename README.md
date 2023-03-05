@@ -25,3 +25,10 @@ In this video, you'll learn:
 ![image](https://user-images.githubusercontent.com/70088342/160780884-22d6025e-9b7d-4493-8136-b3dfbf00a32f.png)
 
 The link => https://ecommerce-plum-eta.vercel.app/
+------------------------------------------------------------------------------------------------------------------------
+you should install node package in this command :
+```shell
+npx create-react-app my-app
+cd my-app
+npm start
+```
